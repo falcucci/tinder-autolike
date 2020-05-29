@@ -97,7 +97,7 @@ function trickOkCupid() {
 // TODO: Need to add RNN for fake messages
 
 function getRandomPeriod() {
-	return Math.round(Math.random() * (2000 - 500)) + 500;
+	return Math.round(Math.random() * (1000));
 }
 
 (function loopSasori() {
